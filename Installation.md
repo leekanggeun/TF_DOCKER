@@ -1,5 +1,5 @@
 # Installation
-All of experiment was tested on Ubuntu 18.04 or 16.04 LTS.
+All of experiment was tested on Ubuntu 18.04 and 16.04 LTS.
 
 # Step 1. Install follow packages as below if you don't have:
 
