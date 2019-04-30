@@ -31,5 +31,6 @@ Ex) `NV_GPU=0 nvidia-docker run --rm -v /home/Alexandrite:/home/Alexandrite -ti 
 
 Ex 1) docker ps -a : Show the list of all containers
 
-Ex 2) ![GitHub Logo](/images/example.PNG)
+Ex 2) If error appear such like <none> unexecutable image, then you can remove with image ID and -f option
+![GitHub Logo](/images/example.PNG)
 
