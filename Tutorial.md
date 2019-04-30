@@ -15,7 +15,7 @@
 
 Ex) `docker build -t test . `  # test is name of the docker image
 
-3. Make container to execute your experiment:
+# Make container to execute your experiment:
 
 Ex) `NV_GPU=0 nvidia-docker run --rm -v /home/Alexandrite:/home/Alexandrite -ti tensorflow/tensorflow:latest-gpu-py3 /bin/bash`
 
