@@ -11,6 +11,8 @@
 
 `WORKDIR /home/Alexandrite/                # Setting the work directory `
 
-2. 
+2. Generate the docker image using Dockerfile:
+
+`
 
 
