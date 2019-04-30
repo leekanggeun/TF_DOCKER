@@ -27,7 +27,7 @@ Ex) `NV_GPU=0 nvidia-docker run --rm -v /home/Alexandrite:/home/Alexandrite -ti 
 - If you want to execute virtual environment with kernel, then you just execute /bin/bash. However, you will almost execute the experiment code such like python test.py instead of /bin/bash
 
 4. Useful command for docker
-![GitHub Logo](/images/command.PNG)
+![GitHub Logo](/images/commands.PNG)
 
 Ex 1) docker ps -a : Show the list of all containers
 
