@@ -5,6 +5,8 @@
 
 `RUN apt-get update                        # RUN is the bash command on Base OS `
 
+`RUN pip install "any package"             # You can install any package on Base OS `
+
 `ADD . /home/Alexandrite/                  # Add directory in home `
 
 `WORKDIR /home/Alexandrite/                # Setting the work directory `
