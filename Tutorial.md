@@ -13,6 +13,17 @@
 
 2. Generate the docker image using Dockerfile:
 
-`
+Ex) `docker build -t test . `  # test is name of the docker image
 
+3. Make container to execute your experiment:
 
+Ex) `NV_GPU=0 nvidia-docker run --rm -v /home/Alexandrite:/home/Alexandrite -ti tensorflow/tensorflow:latest-gpu-py3 /bin/bash`
+
+- The nvidia-docker will be connected between container and GPU source. If you don't need the GPU source, then you can run using docker. 
+- NV_GPU is used as CUDA_VISIBLE_DEVICES
+- --rm : automatically remove the container when it exits
+- -v : Bind mount a volume. As I mention on example, you can mout internal folder of container and external folder such like folder of your worker node
+- -ti : 
+
+4. Useful command
+- To check 
