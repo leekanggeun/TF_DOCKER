@@ -31,9 +31,9 @@
  d. Ip address: 10.20.16.35
 
 6. Quantm(Worker node, wn6)
- a. CPU: ?
- b. GPU: ?
- c. Memory: ?
+ a. CPU: 
+ b. GPU: TITAN V (4GPUs)
+ c. Memory: 128GB
  d. Ip address: 10.20.14.87
  
 7. Opal(Free server, you can access directly)
