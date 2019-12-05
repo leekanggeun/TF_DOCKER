@@ -42,4 +42,10 @@
  c. Memory: 128GB
  d. Ip address: 10.20.17.46
  
+8. Spinel(Worker node, wn7)
+ a. CPU:
+ b. GPU: GTX 2080Ti (2 GPUs)
+ c. Memory: 128GB
+ d. Ip address: 10.20.16.79
+ 
   
