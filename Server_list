@@ -2,7 +2,7 @@
 
 1. Crystal(Manage node)
  a. CPU: Intel(R) Core(TM) i9-9900X CPU @ 3.50GHz (20 Cores)
- b. GPU: TITAN V
+ b. GPU: TITAN RTX (2GPUs)
  c. Memory: 128GB
  d. Ip address: 10.20.14.88~89
  
@@ -31,7 +31,7 @@
  d. Ip address: 10.20.16.35
 
 6. Quantm(Worker node, wn6)
- a. CPU: 
+ a. CPU: Intel(R) Xeon(R) Gold 5115 CPU @ 2.40GHz
  b. GPU: TITAN V (4GPUs)
  c. Memory: 128GB
  d. Ip address: 10.20.16.102
@@ -43,9 +43,17 @@
  d. Ip address: 10.20.17.46
  
 8. Spinel(Worker node, wn7)
- a. CPU:
+ a. CPU: Intel(R) Xeon(R) Gold 5215 CPU @ 2.50GHz
  b. GPU: GTX 2080Ti (2 GPUs)
  c. Memory: 128GB
  d. Ip address: 10.20.16.79
  
-  
+Extra GPUs: 2080Ti (6GPUs) TITAN V (1GPU)
+ 
+Total: 
+TITAN RTX (2GPUs)
+TITAN V (Using 6GPUs, Not using 1GPU)
+TITAN X (4GPUs)
+GTX 2080 Ti (Using 2GPUs, Not using 6GPuS)
+GTX 1080 Ti (16GPUs)(준영이형 컴퓨터에 1개 꼽혀있음)
+
